@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+    <title> Godzilla vs Kong </title>
+</head>
+<body>
+    
+<img src="godzillavskong.jpg" usemap="#monsterverse" width="1000" height="500">
+<map name="monsterverse">
+    <area shape="polygon" coords="0,0 500,0 500,300 300,500 0,500" href="godzilla.html" target="_blank">
+    <area shape="polygon" coords="1000,00 501,00 501,500 1000,500" href="kong.html" target="_blank">
+</map>
+<h2>Which team are you team kong or team godzilla</h2>
+</body>
+</html>
